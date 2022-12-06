@@ -18,4 +18,5 @@
   "overlay.create_jetpack.control.toggle_active": "Activar",
   "key.jetpack.toggle_hover.description": "Alternar el modo flotante",
   "key.jetpack.toggle_active.description": "Alternar motor del Jetpack"
+  "create_jetpack.subtitle.whoosh": "Silbidos de Jetpack"
 }
